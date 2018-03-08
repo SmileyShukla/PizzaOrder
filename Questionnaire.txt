@@ -1,0 +1,38 @@
+BACK END JAVA DEVELOPER QUESTIONNAIRE
+•	Describe specifically any production experience you have with Single Page Application using angular or React UI frameworks
+	No, But I'm very good at Java script so,I can learn the angular/React quickly.
+
+
+
+•	What frameworks/technologies do you have any production experience with?  Give an experience level (1-10 with 10 being expert level).
+	Worked on Struts(9), Hibernate(7), Java script(9), JSP(9), Html(8), Css(6),SQL(8)
+
+•	Describe specifically your production experience with TDD
+	Nope.But I know overview of TDD.
+•	Describe specifically your production experience with RESTful services and API documentation like swagger
+	No.
+•	Describe specifically your production experience with NOSQL databases like MongoDB
+	No.
+•	Describe specifically your production experience with SOAP-based web services
+	Yes(7)
+•	Describe specifically your production experience with AKKA or any other concurrent framework
+	No.
+•	Describe specifically your production experience with any search engine like SOLR or Elastic Search
+	No.
+•	Describe specifically your production experience with Continuous Integration like Jenkins
+	No,I have worked on similar tools so that I can grab it very easily.
+•	Describe specifically your production experience with PDF generation tools/framework like Adobe LiveCycle
+	Worked  little bit on PDF generation tools
+•	Describe specifically your experience with UI technologies or frameworks
+	Worked on Struts(9), Hibernate(7), Java script(9), JSP(9), Html(8), Css(6),SQL(8)
+
+
+•	Describe specifically your other experience with tools like IntelliJ, Github, AppDynamics or gray logs etc
+	I have worked on my eclipse, SVN,Jira,Putty, etc.
+	
+•	Describe a specifically any other significant technology or tool that you have worked with
+	Java,J2EE,Eclipse,SQL developer,SQL Tool,SVN,Bugzilla,Jira,
+•	Describe specifically any open source project to which you have contributed code or followed
+	No.
+•	Describe specifically any experience with web servers/application servers
+	Yeah I have worked on Weblogic and apache tomcat server
